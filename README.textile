@@ -1,0 +1,1 @@
+Webometrics Ranking Web of Universities contains one of the most comprehensive list of world universities. This scraper downloads their list and rankings from http://www.webometrics.info/en/world for research purposes
